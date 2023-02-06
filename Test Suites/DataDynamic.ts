@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDynamic</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>137491f3-fe34-4d26-bedc-0d4f10666eaa</testSuiteGuid>
+   <testCaseLink>
+      <guid>47587925-c602-428c-87fd-28fa99148e1e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PostNewUser</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8d97f7f7-7ae5-4c5f-a4b0-46cf3f7ad03a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ListNewUser</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>8d97f7f7-7ae5-4c5f-a4b0-46cf3f7ad03a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>bf48ab0c-ea3e-4a43-a514-a98b94381bc7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8d97f7f7-7ae5-4c5f-a4b0-46cf3f7ad03a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>job</value>
+         <variableId>5bbf8f85-4e9a-4539-86ac-72f3a9f3bf5f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

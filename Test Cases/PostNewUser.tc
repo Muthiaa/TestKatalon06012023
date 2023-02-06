@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PostNewUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>836e5745-56cc-4c90-b0de-d61e7c9358b8</testCaseGuid>
+   <variable>
+      <defaultValue>'Sambas'</defaultValue>
+      <description></description>
+      <id>bf48ab0c-ea3e-4a43-a514-a98b94381bc7</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'QA'</defaultValue>
+      <description></description>
+      <id>5bbf8f85-4e9a-4539-86ac-72f3a9f3bf5f</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

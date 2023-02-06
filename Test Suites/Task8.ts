@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Task8</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>cecf4e5f-f09a-4306-9918-0164d6c4186c</testSuiteGuid>
+   <testCaseLink>
+      <guid>53cc5ddf-562e-481d-9a15-7e6351ea7594</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Task8_CreateUser</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>d7635a35-9aec-4ec6-90bf-17e573ce800b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Task8_CreateUser</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d7635a35-9aec-4ec6-90bf-17e573ce800b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>852aab45-cb22-4697-9f40-dc2e8e1009a7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d7635a35-9aec-4ec6-90bf-17e573ce800b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>ab6843ea-fb2e-4f74-81f3-4497613ad780</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

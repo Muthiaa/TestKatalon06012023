@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Task8_CreateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b192b32-aa2e-4dbc-aa01-4fae1c17783b</testCaseGuid>
+   <variable>
+      <defaultValue>'Moana'</defaultValue>
+      <description></description>
+      <id>852aab45-cb22-4697-9f40-dc2e8e1009a7</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'moana@gmail.com'</defaultValue>
+      <description></description>
+      <id>ab6843ea-fb2e-4f74-81f3-4497613ad780</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
